@@ -1,0 +1,6 @@
+[submodule "InstrumentFiles"]
+	path = InstrumentFiles
+	url = https://github.com/pace-neutrons/InstrumentFiles
+[submodule "datarepo"]
+	path = datarepo
+	url = https://github.com/mducle/direct_reduction_test

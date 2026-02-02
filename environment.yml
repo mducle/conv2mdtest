@@ -1,0 +1,7 @@
+name: conv2md-env
+channels:
+  - conda-forge
+  - mantid
+  - mantid/label/nightly
+dependencies:
+  mantid
